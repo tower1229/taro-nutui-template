@@ -1,0 +1,135 @@
+{
+  "nav": [
+    {
+      "name": "基础组件",
+      "enName": "demo",
+      "packages": [
+        {
+          "version": "3.0.0",
+          "name": "Avatar",
+          "taro": true,
+          "sort": 7,
+          "cName": "头像",
+          "type": "component",
+          "show": true,
+          "desc": "头像",
+          "author": "ailululu"
+        },
+        {
+          "version": "3.0.0",
+          "name": "Cell",
+          "taro": true,
+          "sort": 1,
+          "cName": "单元格",
+          "type": "component",
+          "show": true,
+          "desc": "展示列表",
+          "author": "richard1015"
+        },
+        {
+          "version": "3.0.0",
+          "name": "CellGroup",
+          "sort": 1,
+          "cName": "单元格组件",
+          "type": "component",
+          "show": false,
+          "taro": true,
+          "exportEmpty": true,
+          "desc": "展示分组列表",
+          "author": "richard1015"
+        },
+        {
+          "version": "3.0.0",
+          "name": "OverLay",
+          "taro": true,
+          "type": "component",
+          "cName": "遮罩层",
+          "desc": "创建一个遮罩层，通常用于阻止用户进行其他操作",
+          "sort": 14,
+          "show": true,
+          "author": "szg2008"
+        },
+        {
+          "version": "3.0.0",
+          "name": "ActionSheet",
+          "taro": true,
+          "sort": "1",
+          "cName": "动作面板",
+          "type": "component",
+          "show": true,
+          "desc": "底部弹出动作菜单面板",
+          "author": "zhangyufei"
+        },
+        {
+          "version": "3.0.0",
+          "name": "Navbar",
+          "taro": true,
+          "sort": 3,
+          "cName": "头部导航",
+          "type": "componment",
+          "show": true,
+          "desc": "头部导航",
+          "author": "liqiong43"
+        },
+        {
+          "version": "3.1.13",
+          "name": "Grid",
+          "type": "component",
+          "cName": "宫格",
+          "desc": "用于分隔成等宽区块进行页面导航",
+          "sort": 13,
+          "taro": true,
+          "show": true,
+          "author": "haiweilian"
+        },
+        {
+          "version": "3.1.13",
+          "name": "GridItem",
+          "type": "component",
+          "cName": "宫格子组件",
+          "desc": "",
+          "sort": 13,
+          "taro": true,
+          "show": false,
+          "exportEmpty": true,
+          "exportEmptyTaro": true,
+          "author": "haiweilian"
+        },
+        {
+          "version": "3.0.0",
+          "name": "DatePicker",
+          "taro": true,
+          "type": "component",
+          "cName": "日期选择器",
+          "desc": "提供多个选型集合供用户选择,支持单列选择和多列级联,通常与弹出层配合使用",
+          "sort": 5,
+          "show": true,
+          "author": "yangkaixuan"
+        },
+        {
+          "version": "3.0.0",
+          "name": "Uploader",
+          "taro": true,
+          "tarodoc": true,
+          "sort": 2,
+          "cName": "上传",
+          "type": "component",
+          "show": true,
+          "desc": "上传文件、图片",
+          "author": "richard1015"
+        },
+        {
+          "version": "3.0.0",
+          "name": "Tabbar",
+          "taro": true,
+          "sort": 2,
+          "cName": "标签栏",
+          "type": "component",
+          "show": true,
+          "desc": "标签栏",
+          "author": "Drjingfubo"
+        }
+      ]
+    }
+  ]
+}
